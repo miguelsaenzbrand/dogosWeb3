@@ -1,0 +1,96 @@
+/*
+ * Start Bootstrap - Full Width Pics (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+
+}
+
+.image-bg-fluid-height {
+	background: url("img/fotoIntro.jpeg") no-repeat center center scroll;
+    padding: 100px 0;
+
+}
+
+.image-bg-fixed-height {
+	background: url("img/fotoIntro.jpeg") no-repeat center center scroll;
+    height: 150px;
+    }
+
+.img-center {
+	margin: 0 auto;
+  width: 30%;
+  }
+
+#aboutPic{
+  width: 100%;
+  margin-top: 10%;
+  margin-left: 10%;
+}
+
+.frases{
+  font-family: courier;
+  font-weight:bolder;
+  font-size: 60px;
+  color: black;
+  padding-top: 2%;
+
+
+}
+
+section {
+    padding: 75px 0;
+}
+
+.section-heading {
+    margin: 30px 0;
+    font-size: 4em;
+    font-family: impact;
+}
+.section-heading-2 {
+    margin: 30px 0;
+    font-size: 4em;
+    font-family: impact;
+    text-align: center;
+
+}
+
+.section-lead {
+    margin: 30px 0;
+}
+.section-lead-2 {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.section-paragraph {
+    margin: 30px 0;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
