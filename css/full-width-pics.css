@@ -1,7 +1,7 @@
 
 body{
   font-family: 'Open Sans', sans-serif;
-  
+
 }
 
 .fondoBarraLogos{
@@ -15,4 +15,9 @@ width: 100%;
 .logoSponsor{
   width: 200%;
   margin-top: 100%;
+  }
+
+.fondoBody{
+    background-image: url(img/pasto3.jpeg);
+    height: 1200px;
   }
