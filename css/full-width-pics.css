@@ -15,45 +15,46 @@ width: 100%;
 }
 
 .logoSponsor{
-  width: 200%;
-  margin-top: 100%;
+  width: ;
+  margin-top: 20%;
   }
 
 .fondoBody{
-    background-image: url(img/pasto3b.jpeg);
-    background-repeat: repeat;
-    height: 5000px;
+    background-color: rgb(227, 232, 227);
+    height: ;
 
   }
 
-  #fotoAbrazados{
-    width: 1000px;
+.fotoAbrazados{
+    width: 100% auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 5%;
+    margin-top: 0%;
 
   }
 
-  .about{
+.about{
     color: white;
+    margin-top: 0%;
+
+  }
+
+.textoAbout{
+    color: black;
+    font-family: 'Zilla Slab Highlight', cursive;
     margin-top: 5%;
 
   }
 
-  .textoAbout{
-    color: black;
-    background-color: rgba(255,255,255,0.5);
+.board{
+  margin-top: 10%;
+}
 
-  }
-
-  .textosOfficers{
+.textosOfficers{
     color: black;
-    background-color: rgba(255,255,255,0.5);
-    margin-top: 5%;
+    background-color: rgba(255,255,255,1);
     margin: 5%;
-    padding: 2%;
-
-
+    
 
   }
