@@ -1,13 +1,12 @@
-
 body{
   font-family: 'Open Sans', sans-serif;
-
+  background-color: rgb(0, 173, 239);
 }
 
 .fondoBarraLogos{
-  background-color: rgb(0, 173, 239);
   margin: 0;
   padding: 0;
+  background-image: url(img/board/nicus.jpeg);
 }
 
 .logoDogos{
@@ -22,39 +21,4 @@ width: 100%;
 .fondoBody{
     background-color: rgb(227, 232, 227);
     height: ;
-
-  }
-
-.fotoAbrazados{
-    width: 100% auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0%;
-
-  }
-
-.about{
-    color: white;
-    margin-top: 0%;
-
-  }
-
-.textoAbout{
-    color: black;
-    font-family: 'Zilla Slab Highlight', cursive;
-    margin-top: 5%;
-
-  }
-
-.board{
-  margin-top: 10%;
-}
-
-.textosOfficers{
-    color: black;
-    background-color: rgba(255,255,255,1);
-    margin: 5%;
-    
-
   }
